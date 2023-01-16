@@ -22,7 +22,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 😂 Random Dev Meme
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.peakpx.com%2Fes%2Fhd-wallpaper-desktop-vsmrv&psig=AOvVaw2h8yjFxJtViqL1euaU5zAG&ust=1673994270140000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODaz-KQzfwCFQAAAAAdAAAAABBP" width="512px"/>
+<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.peakpx.com%2Fes%2Fhd-wallpaper-desktop-vsmrv&psig=AOvVaw2h8yjFxJtViqL1euaU5zAG&ust=1673994270140000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODaz-KQzfwCFQAAAAAdAAAAABBP](https://w0.peakpx.com/wallpaper/963/804/HD-wallpaper-programmer-eat-sleep-code-repeat.jpg)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MarcosHC03&icon=2&color=9)](https://visitcount.itsvg.in)
